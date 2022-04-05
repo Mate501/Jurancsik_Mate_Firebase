@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jurancsik_Mate_Firebase</string>
+    <string name="listing">Listázás</string>
+    <string name="add_new">Új felvétel</string>
+    <string name="back">vissza</string>
+    <string name="add">Felvétel</string>
+    <string name="name">Név</string>
+    <string name="country">Ország</string>
+    <string name="Population">Lakosság</string>
+    <string name="vissza">\@string resource</string>
+    <string name="Vissza">\@string resource</string>
+    <string name="error_name_is_required">A név kitöltése kötelező!</string>
+    <string name="error_country_is_required">Az ország kitöltése kötelező</string>
+    <string name="error_population_is_required">A lakosság kitöltése kötelező</string>
+    <string name="succesful">Sikeres mentés</string>
+</resources>

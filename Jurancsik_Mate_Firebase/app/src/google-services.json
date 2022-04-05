@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522318675317",
+    "firebase_url": "https://fir-ac714-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-ac714",
+    "storage_bucket": "fir-ac714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522318675317:android:67992f5ae7a8f744bde73c",
+        "android_client_info": {
+          "package_name": "com.example.jurancsik_mate_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522318675317-t695cj3pvthsahc8f1j68fedb2dlkfes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqoiAN73ifEbSiHoJCTpjKn1dTOTjjkWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522318675317-t695cj3pvthsahc8f1j68fedb2dlkfes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
