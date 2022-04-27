@@ -4,11 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:weightSum="2"
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/Listing"
+        android:id="@+id/listing"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/listing" />
@@ -18,6 +17,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/add_new" />
-
 
 </LinearLayout>

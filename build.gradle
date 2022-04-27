@@ -5,11 +5,10 @@ plugins {
 
 android {
     compileSdk 31
-    buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "com.example.jurancsik_mate_firebase"
-        minSdk 22
+        applicationId "com.qr.doma_firebase"
+        minSdk 19
         targetSdk 31
         versionCode 1
         versionName "1.0"
@@ -34,6 +33,8 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.5.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    implementation 'com.android.support:multidex:1.0.3'
+
     // Import the BoM for the Firebase platform
     implementation platform('com.google.firebase:firebase-bom:29.3.0')
 

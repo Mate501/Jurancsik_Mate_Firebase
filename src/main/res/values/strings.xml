@@ -1,17 +1,14 @@
 <resources>
-    <string name="app_name">Jurancsik_Mate_Firebase</string>
+    <string name="app_name">Doma_Firebase</string>
     <string name="listing">Listázás</string>
-    <string name="add_new">Új felvétel</string>
+    <string name="add_new">Új felvétele</string>
     <string name="back">Vissza</string>
     <string name="add">Felvétel</string>
     <string name="name">Név</string>
     <string name="country">Ország</string>
     <string name="population">Lakosság</string>
     <string name="error_name_is_required">A név kitöltése kötelező!</string>
-    <string name="error_country_is_required">Az ország kitöltése kötelező</string>
-    <string name="error_population_is_required">A lakosság kitöltése kötelező</string>
-    <string name="succesful">Sikeres mentés</string>
-    <string name="vissza">\@string resource</string>
-    <string name="Vissza">\@string resource</string>
-    <string name="Felvétel">\@string resource</string>
+    <string name="error_country_is_required">Az ország kitöltése kötelező!</string>
+    <string name="error_population_is_required">Az lakosság kitöltése kötelező!</string>
+    <string name="successful">Sikeres mentés.</string>
 </resources>

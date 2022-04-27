@@ -1,16 +1,16 @@
-com/example/jurancsik_mate_firebase/varos.java
- com.example.jurancsik_mate_firebase.varos
-com/example/jurancsik_mate_firebase/BuildConfig.java
- com.example.jurancsik_mate_firebase.BuildConfig
-com/example/jurancsik_mate_firebase/InsertActivity.java
- com.example.jurancsik_mate_firebase.InsertActivity
- com.example.jurancsik_mate_firebase.InsertActivity$1
- com.example.jurancsik_mate_firebase.InsertActivity$2
-com/example/jurancsik_mate_firebase/ListResultActivity.java
- com.example.jurancsik_mate_firebase.ListResultActivity
- com.example.jurancsik_mate_firebase.ListResultActivity$1
- com.example.jurancsik_mate_firebase.ListResultActivity$2
-com/example/jurancsik_mate_firebase/MainActivity.java
- com.example.jurancsik_mate_firebase.MainActivity
- com.example.jurancsik_mate_firebase.MainActivity$1
- com.example.jurancsik_mate_firebase.MainActivity$2
+com/qr/doma_firebase/BuildConfig.java
+ com.qr.doma_firebase.BuildConfig
+com/qr/doma_firebase/InsertActivity.java
+ com.qr.doma_firebase.InsertActivity
+ com.qr.doma_firebase.InsertActivity$1
+ com.qr.doma_firebase.InsertActivity$2
+com/qr/doma_firebase/Varos.java
+ com.qr.doma_firebase.Varos
+com/qr/doma_firebase/ListResultActivity.java
+ com.qr.doma_firebase.ListResultActivity
+ com.qr.doma_firebase.ListResultActivity$1
+ com.qr.doma_firebase.ListResultActivity$2
+com/qr/doma_firebase/MainActivity.java
+ com.qr.doma_firebase.MainActivity
+ com.qr.doma_firebase.MainActivity$1
+ com.qr.doma_firebase.MainActivity$2

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962313994637",
+    "project_id": "matedemo-a375e",
+    "storage_bucket": "matedemo-a375e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962313994637:android:34f5ffe9d71ecb556f3dc4",
+        "android_client_info": {
+          "package_name": "com.qr.doma_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962313994637-3i2fpmumvps5im42u2j6f5fnva8q258u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JL48qrh4TrH_ld9ISzl9MnswZM3jROo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962313994637-3i2fpmumvps5im42u2j6f5fnva8q258u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
